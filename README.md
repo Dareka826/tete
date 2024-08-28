@@ -14,8 +14,7 @@ The library by itself isn't useful to non-developers. Users should check out the
 - [ftete](https://github.com/Dareka826/ltete) - Linux console framebuffer frontend
 
 TODO:
-[ ] Control sequence output
-[ ] Basic text
-[ ] Basic control sequences
-...
-[ ] Pixel rendering output
+- [ ] Control sequence output
+- [ ] Basic text
+- [ ] Basic control sequences
+- [ ] Pixel rendering output
