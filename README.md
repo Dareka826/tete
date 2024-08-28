@@ -6,6 +6,7 @@ Focus on:
 - Stability
 - Size
 - Sixel support
+- Memory usage
 
 The library by itself isn't useful to non-developers. Users should check out these instead:
 - [stete](https://github.com/Dareka826/stete) - SDL frontend
